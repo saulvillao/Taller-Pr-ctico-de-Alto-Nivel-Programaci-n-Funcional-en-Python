@@ -1,1 +1,1 @@
-# Taller-Pr-ctico-de-Alto-Nivel-Programaci-n-Funcional-en-Python
+# Taller-Practico-de-Alto-Nivel-Programacion-Funcional-en-Python
